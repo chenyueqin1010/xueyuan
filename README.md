@@ -3,3 +3,4 @@
 ## 框架
 ### [swiper.js](http://www.swiper.com.cn/)
 ### [swiper.css]((http://www.swiper.com.cn/))
+# demo地址：https://chenyueqin1010.github.io/xueyuan/ 
